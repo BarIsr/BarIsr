@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bar Israeli</h1>
 <h3 align="center">A passionate Software developer from Israel</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Next**
 
 - 👯 I’m looking to collaborate on **web apps**
 
